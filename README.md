@@ -1,75 +1,79 @@
-🎮 Fan Game SuperSonic
+# Fan Game SuperSonic 🎮
 
-Fan game acadêmico inspirado no universo de Sonic
-Projeto desenvolvido exclusivamente para fins educacionais, sem fins lucrativos.
+[🔗 Jogue agora](https://fan-game-super-sonic.vercel.app/)
 
-📌 1. Sobre o Projeto
+Fan game acadêmico inspirado no universo de Sonic. Projeto desenvolvido exclusivamente para fins educacionais e sem fins lucrativos.
 
-O SuperSonic é um protótipo de jogo 2D desenvolvido com o Construct 2, engine baseada em HTML5 e JavaScript.
+---
 
-🎯 O foco do projeto é aplicar conceitos acadêmicos de desenvolvimento de jogos e Interação Humano-Máquina (IHM), com atenção à acessibilidade e inclusão digital.
+## 1. Sobre o projeto
 
-🎯 2. Objetivos
+O **SuperSonic** é um protótipo de jogo 2D criado no **Construct 2**, uma engine que exporta para HTML5/JavaScript. Essa escolha permite:
 
-Aplicar e consolidar conhecimentos em:
+- publicação online imediata;
+- execução em **navegador** de desktop, mobile ou tablet;
+- zero instalação para o usuário.
 
-🔹 Desenvolvimento de jogos 2D
-🔹 Prototipagem rápida
-🔹 Lógica orientada a eventos
-🔹 Interação Humano-Máquina (IHM)
-🔹 Acessibilidade e inclusão digital
+O desenvolvimento também serve como aplicação prática de conceitos de desenvolvimento de jogos e Interação Humano‑Máquina (IHM), com atenção especial à **acessibilidade**.
 
-👥 Público-alvo: pessoas com TEA (Transtorno do Espectro Autista), buscando uma experiência:
+## 2. Objetivos
 
-✅ Confortável
-✅ Previsível
-✅ Acolhedora
+O repositório foi criado para:
 
-⚙️ 3. Tecnologias Utilizadas
+1. aplicar e consolidar conhecimentos em:
+   - desenvolvimento de jogos 2D;
+   - prototipagem rápida;
+   - lógica orientada a eventos;
+   - IHM;
+   - acessibilidade e inclusão digital;
+2. produzir um jogo voltado a pessoas com TEA (Transtorno do Espectro Autista), oferecendo uma experiência:
+   - confortável;
+   - previsível;
+   - acolhedora.
 
-🔹 Construct 2 — Engine de desenvolvimento 2D
-🔹 HTML5 — Plataforma de execução
-🔹 JavaScript — Lógica do jogo (gerada pelo engine)
-🔹 Assets gráficos 2D
+## 3. Tecnologias utilizadas
 
-🌐 O jogo é exportado para ambiente web e executado diretamente no navegador.
+- **Construct 2** – engine de desenvolvimento 2D;
+- **HTML5** – plataforma de execução;
+- **JavaScript** – lógica gerada pelo engine;
+- assets gráficos 2D (sprites, spritesheets etc.).
 
-♿ 4. Acessibilidade e Conceitos de IHM
+O jogo é exportado como um pacote web e roda diretamente no navegador.
 
-O projeto adota princípios de Interação Humano-Máquina (IHM), priorizando:
+## 4. Acessibilidade e IHM
 
-🔹 Redução de carga cognitiva
-🔹 Interface limpa e organizada
-🔹 Controles consistentes e previsíveis
-🔹 Uso de cores suaves e confortáveis
+O projeto incorpora princípios de Interação Humano‑Máquina, priorizando:
 
-⭐ A escolha de um personagem amplamente conhecido contribui para familiaridade, engajamento emocional e redução da ansiedade inicial durante a interação.
+- redução da carga cognitiva;
+- interface limpa e organizada;
+- controles consistentes e previsíveis;
+- uso de cores suaves e confortáveis.
 
-🖼️ 5. Uso de Imagens e GIFs
+A escolha de um personagem reconhecido tende a aumentar familiaridade e diminuir a ansiedade inicial durante a interação.
 
-🔹 Imagens, sprites e GIFs obtidos de fontes públicas na internet
-🔹 Uso exclusivamente educacional
-🔹 Sem fins lucrativos
-🔹 Direitos pertencem aos respectivos autores
+## 5. Uso de imagens e GIFs
 
-📩 Caso solicitado por algum detentor de direitos, o conteúdo será removido prontamente.
+- Imagens, sprites e GIFs são obtidos de fontes públicas na internet;
+- uso exclusivamente educacional e sem fins lucrativos;
+- direitos pertencem aos respectivos autores;
+- caso haja solicitação de remoção por detentores de direitos, o conteúdo será removido prontamente.
 
-🚧 Status do Projeto
+## 6. Status do projeto
 
-🔹 Versão: Beta
-🔹 Tipo: Protótipo em desenvolvimento
-🔹 Áudio: Não implementado
-🔹 Estado: Requer melhorias técnicas e de jogabilidade
-🔹 Acessibilidade: Em evolução
+- **Versão:** Beta
+- **Tipo:** protótipo em desenvolvimento
+- **Áudio:** não implementado
+- **Estado:** necessita melhorias técnicas e de jogabilidade
+- **Acessibilidade:** em evolução
 
-🔗 Acesse o Jogo
+## 7. Licença
 
-👉 Clique aqui para jogar
+Este projeto é um fan game desenvolvido exclusivamente para fins acadêmicos, sem qualquer finalidade comercial.
 
-https://fan-game-super-sonic.vercel.app/
+Os personagens, nomes, marcas e demais elementos relacionados à obra original pertencem aos seus respectivos criadores e detentores de direitos autorais.
 
-📄 Licença
+Este projeto não possui vínculo, afiliação ou reconhecimento oficial por parte dos proprietários da franquia original.
 
-🔹 Projeto livre e não comercial
-🔹 Uso exclusivamente acadêmico e educacional
-🔹 Sem vínculo oficial com os detentores da franquia original
+Caso algum detentor de direitos autorais solicite a remoção de conteúdo, esta será realizada prontamente.
+
+
