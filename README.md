@@ -1,41 +1,39 @@
 🎮 Fan Game SuperSonic
 
-Fan game acadêmico inspirado no universo de Sonic, com foco em acessibilidade e Interação Humano-Máquina (IHM).
+Fan game acadêmico inspirado no universo de Sonic.
+Projeto desenvolvido exclusivamente para fins educacionais, sem fins lucrativos.
 
-SuperSonic é um fan game desenvolvido exclusivamente para fins acadêmicos, sem fins lucrativos.
-O projeto busca unir desenvolvimento de jogos 2D, inclusão digital e princípios de usabilidade.
+📌 1. Sobre o Projeto
 
-✨ Sobre o Projeto
+O SuperSonic é um protótipo de jogo 2D desenvolvido utilizando o Construct 2, engine baseada em HTML5 e JavaScript.
 
-Este jogo foi criado utilizando o Construct 2, uma game engine voltada ao desenvolvimento de jogos 2D baseados em HTML5 e JavaScript.
+O projeto tem como finalidade aplicar conceitos acadêmicos de desenvolvimento de jogos e Interação Humano-Máquina (IHM), com foco em acessibilidade e inclusão digital.
 
-O foco do projeto é prototipagem rápida, aprendizado prático e aplicação de conceitos acadêmicos em um contexto real.
+🎯 2. Objetivos
 
-🎯 Objetivo
+Aplicar e consolidar conhecimentos em:
 
-Aplicar conceitos de:
+Desenvolvimento de jogos 2D
 
-🎮 Desenvolvimento de jogos 2D
+Prototipagem rápida
 
-⚡ Prototipagem rápida
+Lógica orientada a eventos
 
-🧠 Lógica orientada a eventos
+Interação Humano-Máquina (IHM)
 
-🖥️ Interação Humano-Máquina (IHM)
-
-♿ Acessibilidade e inclusão digital
+Acessibilidade e inclusão digital
 
 O jogo é voltado a pessoas com TEA (Transtorno do Espectro Autista), buscando oferecer uma experiência:
 
-Mais confortável
+✔ Confortável
 
-Previsível
+✔ Previsível
 
-Acolhedora
+✔ Acolhedora
 
-⚙️ Tecnologias Utilizadas
+⚙️ 3. Tecnologias Utilizadas
 
-🎮 Construct 2 — Engine de desenvolvimento de jogos 2D
+🎮 Construct 2 — Engine de desenvolvimento 2D
 
 🌐 HTML5 — Plataforma de execução
 
@@ -43,36 +41,35 @@ Acolhedora
 
 🎨 Assets gráficos 2D
 
-O jogo é exportado para ambiente web e pode ser executado diretamente no navegador.
+O jogo é exportado para ambiente web e executado diretamente no navegador.
 
-♿ Acessibilidade & IHM
+♿ 4. Acessibilidade e Conceitos de IHM
 
 O projeto considera princípios de Interação Humano-Máquina (IHM), priorizando:
 
 Redução de carga cognitiva
 
-Interface simples e organizada
+Interface limpa e organizada
 
-Controles previsíveis e consistentes
+Controles consistentes
 
-Uso de cores suaves e confortáveis
+Previsibilidade da interação
 
-O uso de um personagem amplamente conhecido como Sonic contribui para:
+Uso de cores suaves
 
-Familiaridade imediata
+A escolha do personagem Sonic contribui para maior familiaridade e engajamento emocional.
 
-Engajamento emocional
+🖼️ 5. Uso de Imagens e GIFs
 
-Redução da ansiedade inicial
+As imagens, sprites e GIFs foram obtidos de fontes públicas na internet
 
-Relatos indicam que jogos do universo Sonic tendem a ser bem aceitos por pessoas com TEA, quando respeitados limites sensoriais.
+Uso exclusivamente educacional
 
-🖼️ Uso de Imagens e GIFs
+Sem fins lucrativos
 
-As imagens, sprites e GIFs utilizados neste projeto foram obtidos a partir de fontes públicas na internet e são usados exclusivamente para fins educacionais e não comerciais.
+Direitos pertencem aos respectivos autores
 
-Todos os direitos pertencem aos seus respectivos autores.
-Caso algum detentor solicite remoção, o conteúdo será retirado prontamente.
+Caso solicitado, o conteúdo será removido imediatamente.
 
 🚧 Status do Projeto
 
@@ -80,13 +77,12 @@ Caso algum detentor solicite remoção, o conteúdo será retirado prontamente.
 
 🧪 Tipo: Protótipo em desenvolvimento
 
-🔇 Sons e músicas ainda não implementados
+🔇 Sem sons implementados
 
-🛠️ Requer melhorias técnicas, de jogabilidade e refinamento visual
+🛠️ Requer melhorias técnicas e de jogabilidade
 
-♿ Recursos de acessibilidade em evolução
+♿ Acessibilidade em evolução
 
-📄 Licença
+🔗 Acesse o Jogo
 
-Projeto livre e não comercial, desenvolvido exclusivamente para uso educacional e acadêmico.
-Este fan game não possui vínculo oficial com os detentores da franquia original.
+👉 Clique aqui para jogar
